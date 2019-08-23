@@ -1,8 +1,8 @@
 # T00: Exploring PyCharm
 
-Your Names: _____________________
+Your Names: _______Phun Mualcin______________
 
-            _____________________
+            _________Jhonny Sontay-Vicente____________
             
 Google Doc Link: _____________________
 
