@@ -1,6 +1,6 @@
 # T00: Exploring PyCharm
 
-Your Names: _______Phun Mualcin______________
+Your Names: _______Phun Mualcin & Jhonny Sontay______________
 
             ___________________
             
